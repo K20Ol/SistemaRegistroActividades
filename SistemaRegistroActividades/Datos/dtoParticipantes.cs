@@ -8,5 +8,9 @@ namespace SistemaRegistroActividades.Datos
 {
     internal class dtoParticipantes
     {
+        public int ID_Participante { get; set; }
+        public string Nombre { get; set; }
+        public string Correo { get; set; }
+        public string Telefono { get; set; }
     }
 }

@@ -55,6 +55,30 @@
     <Compile Include="Datos\csConexion.cs" />
     <Compile Include="Logica\csOrganizadores.cs" />
     <Compile Include="Logica\csParticipantes.cs" />
+    <Compile Include="Presentacion\CUActividades.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Presentacion\CUActividades.Designer.cs">
+      <DependentUpon>CUActividades.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\CUActividadesParticipantes.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Presentacion\CUActividadesParticipantes.Designer.cs">
+      <DependentUpon>CUActividadesParticipantes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\CUOrganizadores.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Presentacion\CUOrganizadores.Designer.cs">
+      <DependentUpon>CUOrganizadores.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\CUParticipantes.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Presentacion\CUParticipantes.Designer.cs">
+      <DependentUpon>CUParticipantes.cs</DependentUpon>
+    </Compile>
     <Compile Include="Presentacion\Principal.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -63,6 +87,21 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Presentacion\CUActividades.resx">
+      <DependentUpon>CUActividades.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentacion\CUActividadesParticipantes.resx">
+      <DependentUpon>CUActividadesParticipantes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentacion\CUOrganizadores.resx">
+      <DependentUpon>CUOrganizadores.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentacion\CUParticipantes.resx">
+      <DependentUpon>CUParticipantes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentacion\Principal.resx">
+      <DependentUpon>Principal.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>

@@ -7,3 +7,8 @@ C:\Users\Alex2\Documents\Trabajos\Programacion\C#\Haro\SistemaRegistroActividade
 C:\Users\Alex2\Documents\Trabajos\Programacion\C#\Haro\SistemaRegistroActividades\SistemaRegistroActividades\bin\Debug\SistemaRegistroActividades.pdb
 C:\Users\Alex2\Documents\Trabajos\Programacion\C#\Haro\SistemaRegistroActividades\SistemaRegistroActividades\obj\Debug\SistemaRegistroActividades.exe
 C:\Users\Alex2\Documents\Trabajos\Programacion\C#\Haro\SistemaRegistroActividades\SistemaRegistroActividades\obj\Debug\SistemaRegistroActividades.pdb
+C:\Users\Alex2\Documents\Trabajos\Programacion\C#\Haro\SistemaRegistroActividades\SistemaRegistroActividades\obj\Debug\SistemaRegistroActividades.Form1.resources
+C:\Users\Alex2\Documents\Trabajos\Programacion\C#\Haro\SistemaRegistroActividades\SistemaRegistroActividades\obj\Debug\SistemaRegistroActividades.Presentacion.CUActividades.resources
+C:\Users\Alex2\Documents\Trabajos\Programacion\C#\Haro\SistemaRegistroActividades\SistemaRegistroActividades\obj\Debug\SistemaRegistroActividades.Presentacion.CUActividadesParticipantes.resources
+C:\Users\Alex2\Documents\Trabajos\Programacion\C#\Haro\SistemaRegistroActividades\SistemaRegistroActividades\obj\Debug\SistemaRegistroActividades.Presentacion.CUOrganizadores.resources
+C:\Users\Alex2\Documents\Trabajos\Programacion\C#\Haro\SistemaRegistroActividades\SistemaRegistroActividades\obj\Debug\SistemaRegistroActividades.Presentacion.CUParticipantes.resources

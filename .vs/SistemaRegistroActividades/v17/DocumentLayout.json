@@ -3,44 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Haro\\SistemaRegistroActividades\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{94213F4F-D398-4E73-A0D1-7CFF018CD598}|SistemaRegistroActividades\\SistemaRegistroActividades.csproj|c:\\users\\alex2\\documents\\trabajos\\programacion\\c#\\haro\\sistemaregistroactividades\\sistemaregistroactividades\\presentacion\\principal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{94213F4F-D398-4E73-A0D1-7CFF018CD598}|SistemaRegistroActividades\\SistemaRegistroActividades.csproj|solutionrelative:sistemaregistroactividades\\presentacion\\principal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{94213F4F-D398-4E73-A0D1-7CFF018CD598}|SistemaRegistroActividades\\SistemaRegistroActividades.csproj|c:\\users\\alex2\\documents\\trabajos\\programacion\\c#\\haro\\sistemaregistroactividades\\sistemaregistroactividades\\presentacion\\cuparticipantes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94213F4F-D398-4E73-A0D1-7CFF018CD598}|SistemaRegistroActividades\\SistemaRegistroActividades.csproj|solutionrelative:sistemaregistroactividades\\presentacion\\cuparticipantes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{94213F4F-D398-4E73-A0D1-7CFF018CD598}|SistemaRegistroActividades\\SistemaRegistroActividades.csproj|c:\\users\\alex2\\documents\\trabajos\\programacion\\c#\\haro\\sistemaregistroactividades\\sistemaregistroactividades\\logica\\csactividadesparticipantes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{94213F4F-D398-4E73-A0D1-7CFF018CD598}|SistemaRegistroActividades\\SistemaRegistroActividades.csproj|solutionrelative:sistemaregistroactividades\\logica\\csactividadesparticipantes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{94213F4F-D398-4E73-A0D1-7CFF018CD598}|SistemaRegistroActividades\\SistemaRegistroActividades.csproj|c:\\users\\alex2\\documents\\trabajos\\programacion\\c#\\haro\\sistemaregistroactividades\\sistemaregistroactividades\\presentacion\\cuparticipantes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{94213F4F-D398-4E73-A0D1-7CFF018CD598}|SistemaRegistroActividades\\SistemaRegistroActividades.csproj|solutionrelative:sistemaregistroactividades\\presentacion\\cuparticipantes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{94213F4F-D398-4E73-A0D1-7CFF018CD598}|SistemaRegistroActividades\\SistemaRegistroActividades.csproj|c:\\users\\alex2\\documents\\trabajos\\programacion\\c#\\haro\\sistemaregistroactividades\\sistemaregistroactividades\\logica\\csactividades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{94213F4F-D398-4E73-A0D1-7CFF018CD598}|SistemaRegistroActividades\\SistemaRegistroActividades.csproj|solutionrelative:sistemaregistroactividades\\logica\\csactividades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{94213F4F-D398-4E73-A0D1-7CFF018CD598}|SistemaRegistroActividades\\SistemaRegistroActividades.csproj|c:\\users\\alex2\\documents\\trabajos\\programacion\\c#\\haro\\sistemaregistroactividades\\sistemaregistroactividades\\presentacion\\cuactividadesparticipantes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94213F4F-D398-4E73-A0D1-7CFF018CD598}|SistemaRegistroActividades\\SistemaRegistroActividades.csproj|solutionrelative:sistemaregistroactividades\\presentacion\\cuactividadesparticipantes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{94213F4F-D398-4E73-A0D1-7CFF018CD598}|SistemaRegistroActividades\\SistemaRegistroActividades.csproj|c:\\users\\alex2\\documents\\trabajos\\programacion\\c#\\haro\\sistemaregistroactividades\\sistemaregistroactividades\\datos\\dtoactividades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{94213F4F-D398-4E73-A0D1-7CFF018CD598}|SistemaRegistroActividades\\SistemaRegistroActividades.csproj|solutionrelative:sistemaregistroactividades\\datos\\dtoactividades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{94213F4F-D398-4E73-A0D1-7CFF018CD598}|SistemaRegistroActividades\\SistemaRegistroActividades.csproj|c:\\users\\alex2\\documents\\trabajos\\programacion\\c#\\haro\\sistemaregistroactividades\\sistemaregistroactividades\\presentacion\\cuactividadesparticipantes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{94213F4F-D398-4E73-A0D1-7CFF018CD598}|SistemaRegistroActividades\\SistemaRegistroActividades.csproj|solutionrelative:sistemaregistroactividades\\presentacion\\cuactividadesparticipantes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{94213F4F-D398-4E73-A0D1-7CFF018CD598}|SistemaRegistroActividades\\SistemaRegistroActividades.csproj|c:\\users\\alex2\\documents\\trabajos\\programacion\\c#\\haro\\sistemaregistroactividades\\sistemaregistroactividades\\datos\\dtoactividadesparticipantes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{94213F4F-D398-4E73-A0D1-7CFF018CD598}|SistemaRegistroActividades\\SistemaRegistroActividades.csproj|solutionrelative:sistemaregistroactividades\\datos\\dtoactividadesparticipantes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{94213F4F-D398-4E73-A0D1-7CFF018CD598}|SistemaRegistroActividades\\SistemaRegistroActividades.csproj|c:\\users\\alex2\\documents\\trabajos\\programacion\\c#\\haro\\sistemaregistroactividades\\sistemaregistroactividades\\datos\\csconexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{94213F4F-D398-4E73-A0D1-7CFF018CD598}|SistemaRegistroActividades\\SistemaRegistroActividades.csproj|solutionrelative:sistemaregistroactividades\\datos\\csconexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{94213F4F-D398-4E73-A0D1-7CFF018CD598}|SistemaRegistroActividades\\SistemaRegistroActividades.csproj|c:\\users\\alex2\\documents\\trabajos\\programacion\\c#\\haro\\sistemaregistroactividades\\sistemaregistroactividades\\datos\\dtoparticipantes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{94213F4F-D398-4E73-A0D1-7CFF018CD598}|SistemaRegistroActividades\\SistemaRegistroActividades.csproj|solutionrelative:sistemaregistroactividades\\datos\\dtoparticipantes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{94213F4F-D398-4E73-A0D1-7CFF018CD598}|SistemaRegistroActividades\\SistemaRegistroActividades.csproj|c:\\users\\alex2\\documents\\trabajos\\programacion\\c#\\haro\\sistemaregistroactividades\\sistemaregistroactividades\\datos\\dtoorganizadores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{94213F4F-D398-4E73-A0D1-7CFF018CD598}|SistemaRegistroActividades\\SistemaRegistroActividades.csproj|solutionrelative:sistemaregistroactividades\\datos\\dtoorganizadores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{94213F4F-D398-4E73-A0D1-7CFF018CD598}|SistemaRegistroActividades\\SistemaRegistroActividades.csproj|c:\\users\\alex2\\documents\\trabajos\\programacion\\c#\\haro\\sistemaregistroactividades\\sistemaregistroactividades\\logica\\csparticipantes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{94213F4F-D398-4E73-A0D1-7CFF018CD598}|SistemaRegistroActividades\\SistemaRegistroActividades.csproj|solutionrelative:sistemaregistroactividades\\logica\\csparticipantes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{94213F4F-D398-4E73-A0D1-7CFF018CD598}|SistemaRegistroActividades\\SistemaRegistroActividades.csproj|c:\\users\\alex2\\documents\\trabajos\\programacion\\c#\\haro\\sistemaregistroactividades\\sistemaregistroactividades\\logica\\csorganizadores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{94213F4F-D398-4E73-A0D1-7CFF018CD598}|SistemaRegistroActividades\\SistemaRegistroActividades.csproj|solutionrelative:sistemaregistroactividades\\logica\\csorganizadores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{94213F4F-D398-4E73-A0D1-7CFF018CD598}|SistemaRegistroActividades\\SistemaRegistroActividades.csproj|c:\\users\\alex2\\documents\\trabajos\\programacion\\c#\\haro\\sistemaregistroactividades\\sistemaregistroactividades\\logica\\csactividadesparticipantes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94213F4F-D398-4E73-A0D1-7CFF018CD598}|SistemaRegistroActividades\\SistemaRegistroActividades.csproj|solutionrelative:sistemaregistroactividades\\logica\\csactividadesparticipantes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,84 +34,57 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Principal.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Haro\\SistemaRegistroActividades\\SistemaRegistroActividades\\Presentacion\\Principal.cs",
-              "RelativeDocumentMoniker": "SistemaRegistroActividades\\Presentacion\\Principal.cs",
-              "ToolTip": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Haro\\SistemaRegistroActividades\\SistemaRegistroActividades\\Presentacion\\Principal.cs [Dise\u00F1o]",
-              "RelativeToolTip": "SistemaRegistroActividades\\Presentacion\\Principal.cs [Dise\u00F1o]",
+              "DocumentIndex": 2,
+              "Title": "CUActividadesParticipantes.cs",
+              "DocumentMoniker": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Haro\\SistemaRegistroActividades\\SistemaRegistroActividades\\Presentacion\\CUActividadesParticipantes.cs",
+              "RelativeDocumentMoniker": "SistemaRegistroActividades\\Presentacion\\CUActividadesParticipantes.cs",
+              "ToolTip": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Haro\\SistemaRegistroActividades\\SistemaRegistroActividades\\Presentacion\\CUActividadesParticipantes.cs*",
+              "RelativeToolTip": "SistemaRegistroActividades\\Presentacion\\CUActividadesParticipantes.cs*",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwGUAAABOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-10T17:11:52.157Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2025-01-10T21:58:13.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CUParticipantes.cs",
+              "DocumentMoniker": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Haro\\SistemaRegistroActividades\\SistemaRegistroActividades\\Presentacion\\CUParticipantes.cs",
+              "RelativeDocumentMoniker": "SistemaRegistroActividades\\Presentacion\\CUParticipantes.cs",
+              "ToolTip": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Haro\\SistemaRegistroActividades\\SistemaRegistroActividades\\Presentacion\\CUParticipantes.cs*",
+              "RelativeToolTip": "SistemaRegistroActividades\\Presentacion\\CUParticipantes.cs*",
+              "ViewState": "AgIAAGQAAAAAAAAAAAAAABcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T21:56:25.348Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "dtoActividades.cs",
-              "DocumentMoniker": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Haro\\SistemaRegistroActividades\\SistemaRegistroActividades\\Datos\\dtoActividades.cs",
-              "RelativeDocumentMoniker": "SistemaRegistroActividades\\Datos\\dtoActividades.cs",
-              "ToolTip": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Haro\\SistemaRegistroActividades\\SistemaRegistroActividades\\Datos\\dtoActividades.cs",
-              "RelativeToolTip": "SistemaRegistroActividades\\Datos\\dtoActividades.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "CUActividadesParticipantes.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Haro\\SistemaRegistroActividades\\SistemaRegistroActividades\\Presentacion\\CUActividadesParticipantes.cs",
+              "RelativeDocumentMoniker": "SistemaRegistroActividades\\Presentacion\\CUActividadesParticipantes.cs",
+              "ToolTip": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Haro\\SistemaRegistroActividades\\SistemaRegistroActividades\\Presentacion\\CUActividadesParticipantes.cs [Dise\u00F1o]*",
+              "RelativeToolTip": "SistemaRegistroActividades\\Presentacion\\CUActividadesParticipantes.cs [Dise\u00F1o]*",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-10T15:20:37.993Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-10T21:49:41.784Z",
+              "EditorCaption": " [Dise\u00F1o]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "csConexion.cs",
-              "DocumentMoniker": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Haro\\SistemaRegistroActividades\\SistemaRegistroActividades\\Datos\\csConexion.cs",
-              "RelativeDocumentMoniker": "SistemaRegistroActividades\\Datos\\csConexion.cs",
-              "ToolTip": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Haro\\SistemaRegistroActividades\\SistemaRegistroActividades\\Datos\\csConexion.cs",
-              "RelativeToolTip": "SistemaRegistroActividades\\Datos\\csConexion.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "CUParticipantes.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Haro\\SistemaRegistroActividades\\SistemaRegistroActividades\\Presentacion\\CUParticipantes.cs",
+              "RelativeDocumentMoniker": "SistemaRegistroActividades\\Presentacion\\CUParticipantes.cs",
+              "ToolTip": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Haro\\SistemaRegistroActividades\\SistemaRegistroActividades\\Presentacion\\CUParticipantes.cs [Dise\u00F1o]*",
+              "RelativeToolTip": "SistemaRegistroActividades\\Presentacion\\CUParticipantes.cs [Dise\u00F1o]*",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-10T15:20:35.732Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "dtoOrganizadores.cs",
-              "DocumentMoniker": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Haro\\SistemaRegistroActividades\\SistemaRegistroActividades\\Datos\\dtoOrganizadores.cs",
-              "RelativeDocumentMoniker": "SistemaRegistroActividades\\Datos\\dtoOrganizadores.cs",
-              "ToolTip": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Haro\\SistemaRegistroActividades\\SistemaRegistroActividades\\Datos\\dtoOrganizadores.cs",
-              "RelativeToolTip": "SistemaRegistroActividades\\Datos\\dtoOrganizadores.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-10T15:20:27.989Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "dtoParticipantes.cs",
-              "DocumentMoniker": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Haro\\SistemaRegistroActividades\\SistemaRegistroActividades\\Datos\\dtoParticipantes.cs",
-              "RelativeDocumentMoniker": "SistemaRegistroActividades\\Datos\\dtoParticipantes.cs",
-              "ToolTip": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Haro\\SistemaRegistroActividades\\SistemaRegistroActividades\\Datos\\dtoParticipantes.cs",
-              "RelativeToolTip": "SistemaRegistroActividades\\Datos\\dtoParticipantes.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-10T15:20:25.562Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "csActividades.cs",
-              "DocumentMoniker": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Haro\\SistemaRegistroActividades\\SistemaRegistroActividades\\Logica\\csActividades.cs",
-              "RelativeDocumentMoniker": "SistemaRegistroActividades\\Logica\\csActividades.cs",
-              "ToolTip": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Haro\\SistemaRegistroActividades\\SistemaRegistroActividades\\Logica\\csActividades.cs",
-              "RelativeToolTip": "SistemaRegistroActividades\\Logica\\csActividades.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-10T15:19:49.928Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-10T21:49:34.523Z",
+              "EditorCaption": " [Dise\u00F1o]"
             },
             {
               "$type": "Document",
@@ -137,48 +94,22 @@
               "RelativeDocumentMoniker": "SistemaRegistroActividades\\Datos\\dtoActividadesParticipantes.cs",
               "ToolTip": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Haro\\SistemaRegistroActividades\\SistemaRegistroActividades\\Datos\\dtoActividadesParticipantes.cs",
               "RelativeToolTip": "SistemaRegistroActividades\\Datos\\dtoActividadesParticipantes.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-10T15:19:34.105Z",
+              "WhenOpened": "2025-01-10T21:59:53.968Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "csActividadesParticipantes.cs",
               "DocumentMoniker": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Haro\\SistemaRegistroActividades\\SistemaRegistroActividades\\Logica\\csActividadesParticipantes.cs",
               "RelativeDocumentMoniker": "SistemaRegistroActividades\\Logica\\csActividadesParticipantes.cs",
-              "ToolTip": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Haro\\SistemaRegistroActividades\\SistemaRegistroActividades\\Logica\\csActividadesParticipantes.cs",
-              "RelativeToolTip": "SistemaRegistroActividades\\Logica\\csActividadesParticipantes.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAUwAkAAAAFAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Haro\\SistemaRegistroActividades\\SistemaRegistroActividades\\Logica\\csActividadesParticipantes.cs*",
+              "RelativeToolTip": "SistemaRegistroActividades\\Logica\\csActividadesParticipantes.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFwAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-10T15:19:19.946Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "csOrganizadores.cs",
-              "DocumentMoniker": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Haro\\SistemaRegistroActividades\\SistemaRegistroActividades\\Logica\\csOrganizadores.cs",
-              "RelativeDocumentMoniker": "SistemaRegistroActividades\\Logica\\csOrganizadores.cs",
-              "ToolTip": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Haro\\SistemaRegistroActividades\\SistemaRegistroActividades\\Logica\\csOrganizadores.cs",
-              "RelativeToolTip": "SistemaRegistroActividades\\Logica\\csOrganizadores.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAUwAYAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-10T15:19:17.842Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "csParticipantes.cs",
-              "DocumentMoniker": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Haro\\SistemaRegistroActividades\\SistemaRegistroActividades\\Logica\\csParticipantes.cs",
-              "RelativeDocumentMoniker": "SistemaRegistroActividades\\Logica\\csParticipantes.cs",
-              "ToolTip": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Haro\\SistemaRegistroActividades\\SistemaRegistroActividades\\Logica\\csParticipantes.cs",
-              "RelativeToolTip": "SistemaRegistroActividades\\Logica\\csParticipantes.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAArwAYAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-10T15:19:14.767Z",
+              "WhenOpened": "2025-01-10T22:01:18.602Z",
               "EditorCaption": ""
             }
           ]
