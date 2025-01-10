@@ -1,0 +1,9 @@
+C:\Users\Alex2\Documents\Trabajos\Programacion\C#\Haro\SistemaRegistroActividades\SistemaRegistroActividades\obj\Debug\SistemaRegistroActividades.csproj.AssemblyReference.cache
+C:\Users\Alex2\Documents\Trabajos\Programacion\C#\Haro\SistemaRegistroActividades\SistemaRegistroActividades\obj\Debug\SistemaRegistroActividades.Properties.Resources.resources
+C:\Users\Alex2\Documents\Trabajos\Programacion\C#\Haro\SistemaRegistroActividades\SistemaRegistroActividades\obj\Debug\SistemaRegistroActividades.csproj.GenerateResource.cache
+C:\Users\Alex2\Documents\Trabajos\Programacion\C#\Haro\SistemaRegistroActividades\SistemaRegistroActividades\obj\Debug\SistemaRegistroActividades.csproj.CoreCompileInputs.cache
+C:\Users\Alex2\Documents\Trabajos\Programacion\C#\Haro\SistemaRegistroActividades\SistemaRegistroActividades\bin\Debug\SistemaRegistroActividades.exe.config
+C:\Users\Alex2\Documents\Trabajos\Programacion\C#\Haro\SistemaRegistroActividades\SistemaRegistroActividades\bin\Debug\SistemaRegistroActividades.exe
+C:\Users\Alex2\Documents\Trabajos\Programacion\C#\Haro\SistemaRegistroActividades\SistemaRegistroActividades\bin\Debug\SistemaRegistroActividades.pdb
+C:\Users\Alex2\Documents\Trabajos\Programacion\C#\Haro\SistemaRegistroActividades\SistemaRegistroActividades\obj\Debug\SistemaRegistroActividades.exe
+C:\Users\Alex2\Documents\Trabajos\Programacion\C#\Haro\SistemaRegistroActividades\SistemaRegistroActividades\obj\Debug\SistemaRegistroActividades.pdb
